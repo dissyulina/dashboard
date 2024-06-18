@@ -1,4 +1,14 @@
-# Getting Started with Create React App
+# React Dashboard
+
+![Screenshot](./src/images/Screenshot.jpeg)
+
+
+## Technology Used
+- React   
+- Javascript   
+- Bootstrap 5.3   
+- Echarts   
+- React-apexcharts   
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

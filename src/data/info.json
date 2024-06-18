@@ -1,0 +1,209 @@
+{
+  "cards": [
+    {
+      "_id": 1,
+      "name": "Sales",
+      "icon": "bi bi-cart",
+      "amount": 145,
+      "percentage": 0.12,
+      "active": true
+    },
+    {
+      "_id": 2,
+      "name": "Revenue",
+      "icon": "bi bi-currency-dollar",
+      "amount": 3246,
+      "percentage": 0.08,
+      "active": false
+    },
+    {
+      "_id": 3,
+      "name": "Customers",
+      "icon": "bi bi-people",
+      "amount": 1244,
+      "percentage": -0.11,
+      "active": false
+    }
+  ],
+  "news": [
+    {
+      "_id": 1,
+      "img": "../assets/items/news-1.jpg",
+      "title": "Enim sed faucibus turpis in eu mi",
+      "subtitle": "Sed risus ultricies tristique nulla aliquet enim tortor at. Tristique senectus et netus et malesuada fames ac turpis.",
+      "category": "abc"
+    },
+    {
+      "_id": 2,
+      "img": "../assets/items/news-2.jpg",
+      "title": "Elit ullamcorper dignissim cras tincidunt",
+      "subtitle": "Arcu bibendum at varius vel pharetra. Vulputate eu scelerisque felis imperdiet.",
+      "category": "abc"
+    },
+    {
+      "_id": 3,
+      "img": "../assets/items/news-3.jpg",
+      "title": "Hendrerit dolor magna eget est lorem",
+      "subtitle": "Nunc vel risus commodo viverra maecenas accumsan. Purus sit amet volutpat consequat mauris nunc congue.",
+      "category": "abc"
+    },
+    {
+      "_id": 4,
+      "img": "../assets/items/news-4.jpg",
+      "title": "Vitae auctor eu augue ut lectus arcu bibendum",
+      "subtitle": "Tellus rutrum tellus pellentesque eu tincidunt tortor aliquam. In hac habitasse platea dictumst quisque sagittis.",
+      "category": "abc"
+    },
+    {
+      "_id": 5,
+      "img": "../assets/items/news-5.jpg",
+      "title": "Ornare quam viverra orci sagittis eu",
+      "subtitle": "Cursus vitae congue mauris rhoncus aenean vel elit scelerisque.",
+      "category": "abc"
+    }
+  ],
+  "topselling": [
+    {
+      "_id": 1,
+      "preview": "../assets/items/product-1.jpg",
+      "name": "Phasellus vestibulum lorem sed risus",
+      "price": 64,
+      "sold": 124
+    },
+    {
+      "_id": 2,
+      "preview": "../assets/items/product-2.jpg",
+      "name": "Aliquet nec ullamcorper sit amet",
+      "price": 46,
+      "sold": 98
+    },
+    {
+      "_id": 3,
+      "preview": "../assets/items/product-3.jpg",
+      "name": "Purus sit amet volutpat",
+      "price": 59,
+      "sold": 74
+    },
+    {
+      "_id": 4,
+      "preview": "../assets/items/product-4.jpg",
+      "name": "Pulvinar elementum",
+      "price": 32,
+      "sold": 63
+    },
+    {
+      "_id": 5,
+      "preview": "../assets/items/product-5.jpg",
+      "name": "Eu nisl nunc mi ipsum",
+      "price": 41,
+      "sold": 79
+    },
+    {
+      "_id": 6,
+      "preview": "../assets/items/product-6.jpg",
+      "name": "Expecto Patronum",
+      "price": 43,
+      "sold": 76
+    },
+    {
+      "_id": 7,
+      "preview": "../assets/items/product-7.jpg",
+      "name": "Alohamora",
+      "price": 48,
+      "sold": 78
+    },
+    {
+      "_id": 8,
+      "preview": "../assets/items/product-8.jpg",
+      "name": "Wingardium Leviosa",
+      "price": 34,
+      "sold": 65
+    }
+  ],
+  "recentsales": [
+    {
+      "_id": 1,
+      "number": "#2457",
+      "customer": "Brandon Jacob",
+      "product": "Phasellus vestibulum lorem sed risus",
+      "price": 64,
+      "status": "Approved"
+    },
+    {
+      "_id": 2,
+      "number": "#2456",
+      "customer": "Bridie Kessler",
+      "product": "Consectetur lorem",
+      "price": 67,
+      "status": "Pending"
+    },
+    {
+      "_id": 3,
+      "number": "#2455",
+      "customer": "John Meyer",
+      "product": "Orci eu lobortis",
+      "price": 46,
+      "status": "Pending"
+    },
+    {
+      "_id": 4,
+      "number": "#2454",
+      "customer": "Anne Hathaway",
+      "product": "Lectus nulla",
+      "price": 67,
+      "status": "Rejected"
+    },
+    {
+      "_id": 5,
+      "number": "#2453",
+      "customer": "Bruce Wayne",
+      "product": "Mauris ultrices eros",
+      "price": 135,
+      "status": "Approved"
+    }
+  ],
+  "recentactivity": [
+    {
+      "_id": 1,
+      "time": "32 min",
+      "color": "text-success",
+      "content": "Semper eget duis at tellus at",
+      "highlight": "eget duis"
+    },
+    {
+      "_id": 2,
+      "time": "56 min",
+      "color": "text-danger",
+      "content": "Vestibulum morbi blandit cursus risus at",
+      "highlight": "blandit cursus risus"
+    },
+    {
+      "_id": 3,
+      "time": "2 hrs",
+      "color": "text-primary",
+      "content": "Egestas sed tempus urna et pharetra pharetra",
+      "highlight": "tempus urna"
+    },
+    {
+      "_id": 4,
+      "time": "1 day",
+      "color": "text-info",
+      "content": "Orci eu lobortis elementum nibh tellus",
+      "highlight": "Orci eu lobortis"
+    },
+    {
+      "_id": 5,
+      "time": "2 days",
+      "color": "text-warning",
+      "content": "Lectus nulla at volutpat diam ut venenatis",
+      "highlight": "diam ut venenatis"
+    },
+    {
+      "_id": 6,
+      "time": "4 weeks",
+      "color": "text-muted",
+      "content": "Mauris ultrices eros in cursus turpis massa",
+      "highlight": ""
+    }
+  ]
+}
